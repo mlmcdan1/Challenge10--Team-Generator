@@ -8,3 +8,4 @@ npm install node
 Screenshot of HTML: 
 
 Link to walkthrough video: 
+https://watch.screencastify.com/v/8jFpTx6LkjvKOe61wL0D
