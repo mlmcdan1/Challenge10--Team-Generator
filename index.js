@@ -13,7 +13,7 @@ teamArray = [];
 
 
 function runApp () {
-//Adding the create team function to start asking the questions
+//Questions
   function createTeam () {
     inquirer.prompt([{
       type: "list",
@@ -37,8 +37,8 @@ function runApp () {
       }
     })
   }
-// OOP Functions
-//Adding the manager
+
+//Manager
 function addManager() {
   inquirer.prompt ([
     
@@ -74,7 +74,7 @@ function addManager() {
 
 }
 
-//Adding the Engineer
+//Engineer
 function addEngineer() {
     inquirer.prompt([
       
@@ -109,7 +109,7 @@ function addEngineer() {
     });
 
   }
-// Adding the intern
+// Intern
   function addIntern() {
     inquirer.prompt([
       
@@ -145,13 +145,7 @@ function addEngineer() {
 
   }
 
-  // return to menu with option to add another team member create team
-
-  // Would you like to add a team member?
-  // Yes || No
-  // If Yes --> Then select an employee role for your new team member: Manager, Engineer, Intern
-  // If No --> Create Team
-
+  // add another team member + create team
 
 function htmlBuilder () {
     console.log("Team created!")
