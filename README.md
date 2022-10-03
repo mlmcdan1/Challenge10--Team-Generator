@@ -9,4 +9,4 @@ npm install node
 ![Screenshot](Screenshot.png)
 
 ## Link to walkthrough video: 
-https://whttps://youtu.be/D8Qo_JcKCWwatch.screencastify.com/v/8jFpTx6LkjvKOe61wL0D
+https://youtu.be/D8Qo_JcKCWw
